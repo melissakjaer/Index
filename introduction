@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melissa Kjaer</title>
+</head>
+<body>
+    <header> Melissa Kjaer</header>
+        <P> 20 Year Ford Employee, Perpetual Student, Avid  Couponer </P>
+
+        nav>
+        <ul>
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+          <li>
+            <a href="Recipe">Easy Recipes</a>
+          </li>
+          <li>
+            <a href="revisions.html">Page Revisions</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>About Me</h2>
+      <img id="profile-picture" src="profile picture.jpg" alt="Melissa Kjaer" />
+      <p>    </body>
+</html>
