@@ -5,13 +5,9 @@ body {
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
-    background-image: url("6670365.jpg") ;
-      background-size: 100%;
-      background-repeat: no-repeat;
-    
+    background-image: url("45degreee_fabric.png") ;
+    background-size: 100%;
   }
-  
-     
   
    header {
     margin-bottom: 25px;
@@ -68,7 +64,18 @@ body {
   h4 {
     text-align: justify;
     color: black;
+    font-size: 26px;
+    margin-top: 26px;
+    Margin-bottom: 10px;
   }
+
+  h5 {
+    text-align: center;
+    margin: 15px;
+    font-size: 20px;
+    margin-left: -5px;
+
+   }
     #profile-picture {
     float: left;
     width: 300px;
@@ -77,15 +84,18 @@ body {
     margin-top: 6px;
     }
 
-    h5 {
-      text-align: center;
-      margin: 15px;
-      font-size: 20px;
-      margin-left: -5px;
-
-     }
+    #items-needed {
+      float: left;
+      width: 450px;
+      margin-right: 24px;
+      margin-bottom: 15px;
+      margin-top: 100px;
+    }
+    
      
-
+li{
+  margin: 10px 0;
+}
 
   
   
