@@ -23,6 +23,7 @@ body {
   nav li {
     display: inline-block;
     margin: 0 12px;
+    font-size: 25px;
   
   }
 
@@ -51,14 +52,18 @@ body {
   }
   
   h2 {
+    font-size: 30px;
     text-align: center;
     color: purple;
+    margin-top: 70px;
+    margin-bottom: 0%;
     
   }
 
   h3 {
     text-align: center;
     color: purple;
+    padding-top: 30px;
   }
   
   h4 {
@@ -94,9 +99,24 @@ body {
     
      
 li{
-  margin: 10px 0;
+  margin-bottom: 30px;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+
 }
 
+p{ text-align: left;
+  margin-left: 70px;
+  margin-right: 150px;
+  margin-bottom: 70px;
+  font-size: larger;
+}
+
+
+img{
+  padding-bottom: 20px;
+}
 
 header,
 section,
