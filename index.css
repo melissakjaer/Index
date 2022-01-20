@@ -37,7 +37,9 @@ body {
   height: 30px;
 
  }
- td {background-color: lightyellow;
+
+td {
+   background-color: rgb(120, 174, 245);
     text-align: left;
     width: 200px;
     height: 25px;
