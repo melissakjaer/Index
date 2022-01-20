@@ -111,7 +111,13 @@ p{ text-align: left;
   margin-right: 150px;
   margin-bottom: 70px;
   font-size: larger;
+  max-width: 900 ;
 }
+
+
+ 
+}
+
 
 
 img{
